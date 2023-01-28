@@ -113,7 +113,7 @@ __Instructions__
 
 __Ingredients__
 
-**For the tinga**
+*For the tinga*
 
 - 2 pounds boneless pork butt, trimmed of excess fat and cut into 1-inch pieces
 - 2 medium onions, 1 quartered and 1 chopped fine
@@ -127,13 +127,13 @@ __Ingredients__
 - 2 bay leaves
 - Red wine (optional, see notes)
 
-**For the tostadas**
+*For the tostadas*
 
 - 3/4 cup vegetable oil
 - 12 (6-inch) corn tortillas
 - Table salt
 
-**For garnish**
+*For garnish*
 
 - Queso fresco or feta cheese
 - Fresh cilantro leaves
@@ -143,7 +143,7 @@ __Ingredients__
 
 __Instructions__
 
-**For the tinga**
+*For the tinga*
 
 1. Bring pork, quartered onion, smashed garlic cloves, thyme, 1 teaspoon salt,
 and 6 cups water to simmer in large saucepan over medium-high heat, skimming off
@@ -161,7 +161,7 @@ cook until fragrant, about 30 seconds.
 leaves; simmer until almost all liquid has evaporated, 5 to 7 minutes. Remove
 and discard bay leaves and season with salt to taste.
 
-**For the tostadas**
+*For the tostadas*
 
 4. Heat vegetable oil in 8-inch heavy-bottomed skillet over medium heat to 350
 degrees. Using a fork, poke the center of each tortilla 3 or 4 times (to prevent
@@ -171,9 +171,10 @@ until crisp and lightly browned, 45 to 60 seconds (no flipping is
 necessary). Drain on paper towel-lined plate and season with salt to
 taste. Repeat with remaining tortillas.
 
-**To serve**
+*To serve*
 
 5. Spoon small amount of shredded pork onto the center of each tostada and serve, passing ganishes separately.
 
 __Notes__
+
 The trimmed pork butt should weigh about 1 1/2 pounds. If you don't have chipotle chili powder, you can use two minced canned chipotle chiles in its place. You can replace half or less of the reserved pork cooking liquid in step 3 with red wine if desired.
