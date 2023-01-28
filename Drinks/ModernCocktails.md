@@ -86,3 +86,15 @@ a Dark 'n Stormy, since the company that makes the rum has a
 registered trademark. However, there are other rums with similar
 flavors. Also, ginger beer rather than ginger ale is preferred for
 this drink, but ginger ale produces a decent cocktail in this case.
+
+## Smoke and Flowers
+
+__Ingredients__
+- 1 oz peated Scotch whisky (e.g. Laphroaig)
+- 0.5 oz elderflower liqueur (e.g. St. Germaine)
+- 0.3 oz sweet vermouth
+
+__Instructions__
+1. Combine peated Scotch, elderflower liqueur, and sweet vermouth in a cocktail
+shaker with ice, and shake until well-chilled.
+2. Strain into a coupe.
