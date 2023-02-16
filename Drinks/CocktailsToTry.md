@@ -191,7 +191,7 @@ __Ingredients__
 
 - 0.5 oz Lemon Hart 151
 - 1.0 oz Fireball
-- 0.5 Ancho Reyes chili liquor
+- 0.5 oz Ancho Reyes chili liquor
 - Cinnamon stick for garnish (optional)
 
 __Instructions__

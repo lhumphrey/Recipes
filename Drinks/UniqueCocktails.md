@@ -4,6 +4,22 @@ sort : 3
 
 # Unique Cocktails
 
+## Yellow Bird 43
+
+__Ingredients__
+- 2 oz white rum
+- 1 oz Licor 43
+- 1 oz orange liqueur (e.g. Cointreau)
+- 1 oz lime juice
+- Lime slice and cocktail cherry for garnish
+
+__Instructions__
+
+1. Add rum, Licor 43, orange liqueur, and lime juice to a cocktail shaker with
+ice, and shake until well-chilled.
+2. Strain into a martini glass or other stemmed cocktail glass.
+3. Garnish with a lime slice and cocktail cherry if desired.
+
 ## Cloister
 
 __Ingredients__
