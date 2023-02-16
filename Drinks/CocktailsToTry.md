@@ -158,3 +158,139 @@ __Instructions__
 1. Prepare a cocktail glass by cutting a lime wedge, using it to moisten the glass's rim with lime juice, then dipping the rim in salt or sugar.
 2. Combine tequila, grapefruit juice, and cinnamon syrup with ice in a cocktail shaker, and shake vigorously until well-chilled.
 3. Pour cocktail into glass and serve.
+
+__Notes__
+
+Tried this once, and it was good, but it felt like it was missing something. Maybe some Cointreau or lime juice or both.
+
+## Royal Elf Root
+
+__Ingredients__
+
+- 5-6 raspberries
+- 0.5 oz grenadine
+- 1.0 oz cognac
+- 3.0-6.0 oz white sparkling wine
+- Rosemary for garnish
+
+__Instructions__
+
+1. Put raspberries, grenadine, and cognac in a cocktail shaker. Muddle raspberries.
+2. Add ice to shaker, and shake until well-chilled.
+3. Strain into coupe.
+4. Top with white sparkling wine.
+5. Garnish with rosemary.
+
+__Notes__
+
+Inspired by Dragon Age and invented on "How to Drink."
+
+## Hissing Drake
+
+__Ingredients__
+
+- 0.5 oz Lemon Hart 151
+- 1.0 oz Fireball
+- 0.5 Ancho Reyes chili liquor
+- Cinnamon stick for garnish (optional)
+
+__Instructions__
+
+1. Add ingredients to cocktail shaker.
+2. Add ice to shaker, and shake until well-chilled.
+3. Strain into shooter glass.
+4. Lay slightly burned cinnamon stick across top of glass for garnish
+if desired.
+
+__Notes__
+
+Inspired by Dragon Age and invented on "How to Drink."
+
+## Benediction
+
+__Ingredients__
+
+- 1.5 oz gin
+- 1.0 oz yellow chartreuse
+- Lime peel
+- Wedge of lime
+
+__Instructions__
+
+1. Combine ingredients in mixing glass with ice, stir until
+well-chilled, and strain into coupe.
+2. Express lime peel over drink.
+3. Garnish with lime wedge on rim.
+
+__Notes__
+
+Inspired by Dragon Age and invented on "How to Drink."
+
+## Emerald Valley
+
+__Ingredients__
+- 0.75 oz simple syrup
+- 1.0 oz lime juice
+- 2.0 oz green chartreuse
+- Egg white
+- Nutmeg for garnish (optional)
+
+__Instructions__
+
+1. Add ingredients to a cocktail shaker and do a dry shake.
+2. Add ice to shaker, and shake until well-chilled.
+3. Strain into coupe or Nick and Nora glass.
+4. Garnish with nutmeg (preferably fresh) if desired.
+
+__Notes__
+
+Inspired by Dragon Age and invented on "How to Drink." Based on
+general formula for a sour. Greg really liked this one.
+
+## Randy Dowager
+
+__Ingredients__
+
+- 0.25 oz simple syrup
+- 0.5 oz lemon juice
+- 0.5 oz lime juice
+- 1.5 oz peach liqueur (e.g. Orchard Peach)
+- 1 oz heavy cream
+- 1 egg white
+- Candied rose petals for garnish
+
+__Instructions__
+
+1. Chill a highball glass.
+2. Combine all ingredients in cocktail shaker, and add the spring off
+a Hawthorne strainer if you have one. Dry shake extensively.
+3. Add ice and shake again for a long time.
+4. Add carbonated water to the chilled highball glass.
+5. Strain contents of cocktail shaker into glass and let sit for one
+minute.
+6. Top with candied rose petals.
+
+__Notes__
+
+Inspired by Dragon Age and invented on "How to Drink." Based on the
+concept of a Ramos Fizz.
+
+## Night of Shame
+
+__Ingredients__
+
+- Sweet port
+- Cocoa bitters
+- Twist of orange peel
+
+__Instructions__
+
+1. Put sweet port into a cold port glass.
+2. Add cocoa bitters to taste.
+3. Express twist of orange peel over drink, then use it to garnish the
+drink.
+
+__Notes__
+
+Inspired by Dragon Age and invented on "How to Drink." Based on the
+concept of a Ramos Fizz.
