@@ -37,4 +37,5 @@ before transferring to a wire rack to cool completely.
 
 __Notes__
 - There are 126 calories per cookie.
-- A good frosting to use with this cookies is [foo](TikiCocktails.md) American Buttercream.
+- A good frosting to use with this cookies is [American Buttercream](Frostings.md#frostings-american-buttercream).
+- I made these with American Buttercream during COVID lockdown, and they were amazing! One of Jason's favorites.

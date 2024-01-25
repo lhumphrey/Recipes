@@ -1,4 +1,77 @@
+---
+sort : 2
+---
+
 # Weeknight Entrees
+
+## Vegetarian Lasagna
+Makes 4 servings
+
+__Ingredients__
+
+*For the vegetable portion of the filling*
+- 2 tbsp extra-virgin olive oil
+- 1 red bell pepper, chopped
+- 1 large zucchini or 6 oz mushrooms, chopped
+- 1 medium yellow onion, chopped
+- 0.25 tsp salt
+- 5 to 6 ounces baby spinach
+
+*For the cheese portion of the filling*
+- 2 cups (16 oz) low-fat cottage cheese
+- 0.25 tsp salt
+- Freshly ground black pepper, to taste
+- 1 large egg, beaten
+- 0.5 cups grated Parmesan cheese
+- 1 tbsp dried parsley
+
+*For the tomato sauce*
+- 1 28 oz can diced tomatoes
+- 0.25 cups chopped fresh basil
+- 2 tablespoons extra-virgin olive oil
+- 2 cloves garlic, pressed or minced
+- 0.5 tsp salt
+
+*Remaining ingredients*
+- 9 no-boil lasagna noodles
+- 12 oz (3 cups) low-moisture, part-skim mozzarella cheese
+- Additional shredded Parmesan cheese (optional)
+
+__Instructions__
+
+1. Preheat oven to 450F.
+2. For the vegetable portion of the filling, heat 2 tbsp olive oil in
+a skillet, then sautee and salt the vegetables, adding each type at the
+appropriate time so that they all finish cooking at the same time. Start
+with the mushrooms if using, since they take the longest to cook. End
+with the spinach since it takes very little time to cook.
+3. While the vegetables are cooking, start making the tomato sauce by
+heating 2 tbsp olive oil in a small sauce pan. Add the garlic and cook
+until fragrant, about 1 minute. Then add the rest of the ingredients,
+stir, and bring to a simmer.
+4. While the vegetables and sauce are cooking, prepare the cheese
+portion of the filling by mixing all ingredients in a moderately large
+mixing bowl.
+5. Once vegetables are done cooking, mix them into the cheese portion
+of the filling.
+6. Spread 0.5 cups of tomato sauce over the bottom of a 9"x13" baking
+dish, then layer 3 lasagna noodles on top (there will be extra room in the
+dish).
+7. Spread half the filling over the noodles, top with 0.75 cups
+tomato sauce, then sprinkle about 1.25 cups (about 40%) of the
+shredded mozzerella on top of the sauce.
+8. Top with 3 more noodles, followed by the rest of the filling, then
+again sprking about 1.25 cups (about 40%) of the shredded mozzerella
+on top of that.
+9. Top with 3 more noodles, and spread 0.75 cups tomato sauce on top
+of that (you may have extra left over). Sprinkle remaining shredded
+mozzarella over the sauce, along with any additional shredded Parmesan
+cheese.
+10. Seal top with a sheet or two of aluminum foil. Bake, covered, for
+18 minutes. Then remove the foil, rotate the pan, and continue cooking
+for about 10 to 12 minutes more.
+11. Remove from oven and cool for 15 to 20 minutes before slicing and
+serving.
 
 ## Chicken Milanese
 Makes 2 servings

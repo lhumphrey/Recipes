@@ -1,3 +1,7 @@
+---
+sort : 1
+---
+
 # Bulk Entrees
 
 ## Lamb Stew

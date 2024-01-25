@@ -4,6 +4,44 @@ sort : 3
 
 # Unique Cocktails
 
+## Smokey Mezcal-Fig Sour
+
+__Ingredients__
+
+*For the fig-ginger syrup*
+- 1 cup granulated sugar
+- 0.5 cups water
+- 10 dried figs, halved
+- 1 4-inch piece fresh ginger, peeled and sliced
+
+*For the cocktail*
+- 2 oz Mezcal
+- 0.75 oz fig-ginger syrup
+- 0.75 oz lemon juice
+- 1 oz mineral or tap water
+- Whole nutmeg, for grating into cocktail
+
+__Instructions__
+
+*For the fig-ginger syrup*
+
+1. Heat sugar and water together in a small saucepan over medium to
+medium high heat, stirring occasionally until combined.
+2. Turn the heat down to low, then add figs and ginger. Let figs
+and ginger infuse for 5-10 minutes.
+3. Remove saucepan from heat and let mixture cool for about 30
+minutes.
+4. Strain out solids, retaining liquids in an appropriate syrup
+container.
+
+
+*For the cocktail*
+
+1. Add the Mezcal, fig-ginger syrup, and lemon juice to a cocktail
+shaker with ice. Shake until well-chilled.
+2. Strain into an ice-filled old fashioned glass.
+3. Top with freshly grated nutmeg.
+
 ## Yellow Bird 43
 
 __Ingredients__
